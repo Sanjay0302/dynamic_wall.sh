@@ -2,7 +2,11 @@ A simple script to create dynamic wallpaper based on Light/Dark theme
 
 # [Preview of dynamic wallpaper](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/60e4a994-a317-4162-a6f7-27298117cb57):
 
-[Screencast from 2024-04-15 20-02-14.webm](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/60e4a994-a317-4162-a6f7-27298117cb57)
+<details>
+  <summary>Screencast from 2024-04-15 20-02-14.webm</summary>
+  
+  [Screencast](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/60e4a994-a317-4162-a6f7-27298117cb57)
+</details>
 
 ---
 
