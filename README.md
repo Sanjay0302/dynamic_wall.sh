@@ -47,4 +47,13 @@ chmod +x dynamic_wallsh.sh
 ```
 ./dynamic_wallsh.sh
 ```
+---
 
+## what this script actually doing
+
+* The script creates a Folder containing 2 images in gnome backround wallpaper folder
+* Then it creates a xml file for these 2 images to swith the wallpaper based on the light or dark theme
+* The script performs copying the 2 images provided by user to the perticular folder inside the gnome and creates xml file for it
+* The user can see this new dynamic wallpaper in gnome settings > apperance (where user selects wallpaper)
+
+![image](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/47d614a0-e602-4a3d-8418-f28d3a1ccf61)
