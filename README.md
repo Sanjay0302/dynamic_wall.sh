@@ -11,7 +11,7 @@ A simple script to create dynamic wallpaper based on Light/Dark theme
 We have two files in repo
 
 1. [dynamic_wallsh.sh](https://github.com/Sanjay0302/dynamic_wall.sh/blob/master/dynamic_wallsh.sh)
-2. [simple_final.sh](https://github.com/Sanjay0302/dynamic_wall.sh/blob/master/simple_final.sh)
+2. [simple_final.sh](https://github.com/Sanjay0302/dynamic_wall.sh/blob/master/simple_no_tui.sh)
 
 Both are exactly same but [dynamic_wallsh.sh](https://github.com/Sanjay0302/dynamic_wall.sh/blob/master/dynamic_wallsh.sh) offers TUI bases interactive selection menu built using `whiptail`
 
