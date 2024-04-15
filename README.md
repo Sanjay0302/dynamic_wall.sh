@@ -30,8 +30,9 @@ Here is how it looks:
 ```bash
 ls -l dynamic_wallsh.sh
 ```
+Example:
 
-![image](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/7dc0ee17-bff2-4100-acf7-6c45781762a6)
+![image](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/30f31c3c-fd65-44b4-adf9-ceb0b559aa01)
 
 ---
 
@@ -51,7 +52,7 @@ chmod +x dynamic_wallsh.sh
 ```
 ---
 
-## what this script actually doing
+## what this script actually doing: [Refer](https://linuxconfig.org/how-to-create-gnome-dynamic-wallpapers)
 
 * The script creates a Folder containing 2 images in gnome backround wallpaper folder
 * Then it creates a xml file for these 2 images to swith the wallpaper based on the light or dark theme
@@ -61,4 +62,10 @@ chmod +x dynamic_wallsh.sh
 ![image](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/47d614a0-e602-4a3d-8418-f28d3a1ccf61)
 
 
+---
+# Credits
 
+Creating dynamic wallpaper in gnome is explained in this [**site**](https://linuxconfig.org/how-to-create-gnome-dynamic-wallpapers) : 
+https://linuxconfig.org/how-to-create-gnome-dynamic-wallpapers
+
+I just created a TUI (terminal-user-interface) to automate the process
