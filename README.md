@@ -1,8 +1,8 @@
 A simple script to create dynamic wallpaper based on Light/Dark theme
 
-# Preview:
+# [Preview of dynamic wallpaper](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/60e4a994-a317-4162-a6f7-27298117cb57):
 
-![image](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/188759c7-47b5-49a2-ab10-347b9c4a03dc)
+[Screencast from 2024-04-15 20-02-14.webm](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/60e4a994-a317-4162-a6f7-27298117cb57)
 
 ---
 
@@ -15,7 +15,9 @@ We have two files in repo
 
 Both are exactly same but [dynamic_wallsh.sh](https://github.com/Sanjay0302/dynamic_wall.sh/blob/master/dynamic_wallsh.sh) offers TUI bases interactive selection menu built using `whiptail`
 
-Dowmload the `whiptail` or `simple` version and perform the below operations
+![image](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/188759c7-47b5-49a2-ab10-347b9c4a03dc)
+
+* Dowmload the `whiptail` or `simple` version and perform the below operations
 
 ---
 
@@ -57,3 +59,6 @@ chmod +x dynamic_wallsh.sh
 * The user can see this new dynamic wallpaper in gnome settings > apperance (where user selects wallpaper)
 
 ![image](https://github.com/Sanjay0302/dynamic_wall.sh/assets/90672297/47d614a0-e602-4a3d-8418-f28d3a1ccf61)
+
+
+
